@@ -1,11 +1,11 @@
-question-1.js
+//question-1.js
 const divide = (a,b) => {
     return a / b;
 }
 
 console.log(division(10,2));
 
-question-2.js
+//question-2.js
 const url = "https://api.rawg.io/api/games?dates=2019-01-01,2019-12-31&ordering=-rating";
 
 const resultsContainer = document.querySelector(".results");
